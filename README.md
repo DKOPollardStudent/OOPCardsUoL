@@ -4,6 +4,7 @@ UoL Card Shuffle C#
 Card Shuffle OOP Assignment - University of Lincoln
 
 A Simple Card Shuffle and Dealing Program
+This is my first time using C#
 
 Changes after first review (Second Commit):
 - Added "try" error handling to "ShuffleType" in Testing.cs
