@@ -13,3 +13,5 @@ Changes after first review (Second Commit):
 Notable Issues:
 - For some reason, it now exits the VS console after inputting a deal amount, despite no changes to that part of the code.
 - I don't know why this happens or how to fix it.
+
+**_EDIT:_** These issues have now been fixed in the Third Commit.
